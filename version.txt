@@ -1,6 +1,1 @@
-13.1 INFERNO
-bsk
-hjs
-hsk
-hsks
-hsns
+INFERNO 13.1
