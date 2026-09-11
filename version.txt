@@ -1,4 +1,1 @@
-1.0.0 Gengar_Cheats
-;$!$
-jdkd
-jdkd
+Gengar_Cheats 2.0.0
