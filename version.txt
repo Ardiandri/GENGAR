@@ -1,1 +1,5 @@
-Gengar_Cheats 3.0
+4.0.0 Gengar_Cheats
+bdnd
+jdnd
+bdn
+bdj
